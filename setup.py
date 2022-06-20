@@ -9,7 +9,7 @@ setup(
     author_email='',
     license='MIT License',
     packages=['shove'],
-    install_requires=[''],
+    install_requires=['sqlitedict', 'os'],
 
     classifiers=[
         'Development Status :: 1 - Planning',
